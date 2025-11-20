@@ -114,7 +114,7 @@ const InputForm: React.FC<InputFormProps> = ({ formData, setFormData, onSubmit, 
                {/* Reference Image */}
                <div>
                  <label className="block text-sm font-medium text-slate-400 mb-2 flex items-center gap-2">
-                   <ImageIcon className="w-4 h-4" /> Foto Producto
+                   <ImageIcon className="w-4 h-4" /> Imagen Referencia (Opcional)
                  </label>
                  
                  <input 
